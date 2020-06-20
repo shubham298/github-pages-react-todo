@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-pages-react-todo/static/css/main.e50a69e6.chunk.css",
+    "main.js": "/github-pages-react-todo/static/js/main.59231c1e.chunk.js",
+    "main.js.map": "/github-pages-react-todo/static/js/main.59231c1e.chunk.js.map",
+    "runtime-main.js": "/github-pages-react-todo/static/js/runtime-main.5ff759cc.js",
+    "runtime-main.js.map": "/github-pages-react-todo/static/js/runtime-main.5ff759cc.js.map",
+    "static/js/2.7547e431.chunk.js": "/github-pages-react-todo/static/js/2.7547e431.chunk.js",
+    "static/js/2.7547e431.chunk.js.map": "/github-pages-react-todo/static/js/2.7547e431.chunk.js.map",
+    "index.html": "/github-pages-react-todo/index.html",
+    "precache-manifest.58f5c95d3d93182820de5c9cc0d1fb15.js": "/github-pages-react-todo/precache-manifest.58f5c95d3d93182820de5c9cc0d1fb15.js",
+    "service-worker.js": "/github-pages-react-todo/service-worker.js",
+    "static/css/main.e50a69e6.chunk.css.map": "/github-pages-react-todo/static/css/main.e50a69e6.chunk.css.map",
+    "static/js/2.7547e431.chunk.js.LICENSE.txt": "/github-pages-react-todo/static/js/2.7547e431.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ff759cc.js",
+    "static/js/2.7547e431.chunk.js",
+    "static/css/main.e50a69e6.chunk.css",
+    "static/js/main.59231c1e.chunk.js"
+  ]
+}
